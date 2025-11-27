@@ -1,0 +1,235 @@
+{
+  "id": 1,
+  "title": "On Campus",
+  "type": "photos",
+  "coverImage": "/images/onCampus/math145.JPG",
+  "content": [
+    {
+      "type": "text",
+      "content": "-"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/a_little_house.JPG",
+      "caption": "a little house"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/chair.JPG",
+      "caption": "chair"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/classroom.JPG",
+      "caption": "classroom"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/classroom_retrospective.JPG",
+      "caption": "classrrom retrospective"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/crossroad.JPG",
+      "caption": "crossroad"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/daisy.JPG",
+      "caption": "daisy"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/downstair.JPG",
+      "caption": "downstair"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/first_snow.JPG",
+      "caption": "first snow"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/fish.JPG",
+      "caption": "fish"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/flower.JPG",
+      "caption": "flower"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/garden_and_falling_leaves.JPG",
+      "caption": "garden and falling leaves"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/garden_and_feeling_lonely.JPG",
+      "caption": "garden and feeling lonly"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/garden.JPG",
+      "caption": "garden"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/golden_leaves.JPG",
+      "caption": "golden_leaves"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/hands.JPG",
+      "caption": "hands"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/I_hate_bugs_but_this_one_is_cute.JPG",
+      "caption": "I hate bugs but this one is cute"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/less_lonely_vibe.JPG",
+      "caption": "less lonely vibe"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/light_in_the_hall.JPG",
+      "caption": "light in the hall"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/lonely_vibe.JPG",
+      "caption": "lonely vibe"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/long_way_to_go.JPG",
+      "caption": "long way to go"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/lost.JPG",
+      "caption": "lost"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/math_entrance.JPG",
+      "caption": "math entrace"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/math_library.JPG",
+      "caption": "math library"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/math145.JPG",
+      "caption": "math 145"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/myself.JPG",
+      "caption": "myself"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/overexpose.JPG",
+      "caption": "overexpose"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/people_and_pavilion.JPG",
+      "caption": "people and pavilion"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/people_in_a_trance.JPG",
+      "caption": "people in a trance"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/random_study_place.JPG",
+      "caption": "random study place"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/red_leaves.JPG",
+      "caption": "red leaves"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/red_leaves_2.JPG",
+      "caption": "red leaves again"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/rose.JPG",
+      "caption": "rose which no one gave me before"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/say_and_me_looking_at_pictures.JPG",
+      "caption": "Say and me looking at pictures"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/smith_hall.JPG",
+      "caption": "smith hall"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/so_white.JPG",
+      "caption": "so white"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/stairs.JPG",
+      "caption": "stairs"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/sunshine.JPG",
+      "caption": "sunshine"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/swings.JPG",
+      "caption": "swings"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/tree_my_dearest_friend.JPG",
+      "caption": "tree"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/vending_machine.JPG",
+      "caption": "vending machine"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/wild_flower.JPG",
+      "caption": "wild flowers"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/you_can_stay_under_my_umbrella.JPG",
+      "caption": "you can stay under my umbrella"
+    },
+    {
+      "type": "image",
+      "src": "/images/onCampus/young_couple.JPG",
+      "caption": "young couple"
+    },
+    {
+      "type": "text",
+      "content": "i haven't really started to organize these pictures, please wait...."
+    },
+    {
+      "type": "text",
+      "content": "-"
+    }
+  ]
+}
