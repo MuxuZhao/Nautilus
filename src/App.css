@@ -515,7 +515,7 @@ button:focus {
   width: 100%;
 }
 
-/* 第一部分：Hero Section */
+/* Hero Section */
 .about-hero {
   min-height: 100vh;
   display: flex;
@@ -561,7 +561,7 @@ button:focus {
   letter-spacing: 0.02em;
 }
 
-/* 第二部分：Reasons Section */
+/* Reasons Section */
 .reasons-section {
   min-height: 100vh;
   display: flex;
@@ -665,7 +665,7 @@ button:focus {
   margin: 0;
 }
 
-/* 第三部分：Bio Section */
+/* Bio Section */
 .bio-section {
   min-height: 100vh;
   display: flex;
@@ -682,7 +682,7 @@ button:focus {
   margin: 0 auto;
 }
 
-/* 头像区域 */
+/* avatar */
 .bio-header {
   display: flex;
   flex-direction: column;
@@ -733,7 +733,7 @@ button:focus {
   font-weight: 300;
 }
 
-/* 详细信息 */
+/* specifics */
 .bio-details {
   margin-bottom: 3rem;
 }
@@ -751,7 +751,7 @@ button:focus {
   margin-bottom: 1.5rem;
 }
 
-/* 数据统计 */
+/* biostat */
 .bio-stats {
   display: flex;
   justify-content: center;
@@ -782,7 +782,7 @@ button:focus {
   text-transform: uppercase;
 }
 
-/* 联系信息 */
+/* contact */
 .bio-contact {
   border-top: 1px solid #e7e5e4;
   padding-top: 2rem;
@@ -819,7 +819,7 @@ button:focus {
   font-size: 0.875rem;
 }
 
-/* 响应式设计 */
+/* RWD */
 @media (max-width: 768px) {
   .bio-stats {
     flex-direction: column;
@@ -840,7 +840,7 @@ button:focus {
   }
 }
 
-/* 螺旋旋转动画 */
+/* animated nautilus */
 @keyframes spiral-rotate {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

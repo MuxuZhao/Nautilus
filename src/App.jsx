@@ -462,8 +462,8 @@ function AboutPage() {
               </div>
               
               <div className="bio-basic">
-                <h2 className="bio-name"></h2>
-                <p className="bio-tagline"> </p>
+                <h2 className="bio-name">Madeline Zhao</h2>
+                <p className="bio-tagline"></p>
               </div>
             </div>
 
@@ -471,7 +471,7 @@ function AboutPage() {
             <div className="bio-details">
               <div className="bio-text">
                 <p> </p>
-                <p> Hi! I am currently a student majored in . Another mundane fact about me is that I take photos and write things :D </p>
+                <p> Hi! I am currently a student majored in Math & CS at UIUC. Another mundane fact about me is that I take photos and write things :D </p>
                 <p> Sometimes the photos and words go together, sometimes they don't. You'll find my photography here, along with short stories, essays, and random thoughts about books, anime, movies, or whatever's on my mind.</p>
                 <p> When I'm not behind the camera, I'm probably reading novels, playing the flute, cycling around town, binge-watching anime, or cooking something in my kitchen (with varying degrees of success).</p>
                 <p> - </p>
@@ -499,11 +499,11 @@ function AboutPage() {
 
             {/* contact */}
             <div className="bio-contact">
-              <p>Say hello: <a href="mailto:"></a></p>
+              <p>Say hello: <a href="mailto:zMx202305@gmail.com"></a> zMx202305@gmail.com</p>
               <div className="social-links">
-                <a href="" className="social-link">Instagram</a>
+                <a href="https://www.instagram.com/madelinezhao_/" className="social-link">Instagram</a>
                 <span className="divider">•</span>
-                <a href="" className="social-link">GitHub</a>
+                <a href="https://github.com/MuxuZhao" className="social-link">GitHub</a>
               </div>
             </div>
           </div>
