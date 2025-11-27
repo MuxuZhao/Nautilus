@@ -441,7 +441,7 @@ function AboutPage() {
             <div className="bio-header">
               <div className="avatar-container">
                 <img 
-                  src="/images/avatar.jpg" 
+                  src="images/avatar.jpg" 
                   alt="me!" 
                   className="avatar"
                 />
