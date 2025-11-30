@@ -172,7 +172,7 @@
      {
       "type": "image",
       "src": "images/onCampus/flower.JPG",
-      "caption": "My apartment. The flower "
+      "caption": "My apartment. My roommate likes to bring bouquet of flowers home."
     },
     {
       "type": "image",
@@ -210,7 +210,7 @@
     },
     {
       "type":"text",
-      "content": "Special thanks to Say. She accompanies me on many of these walks. \n Special thanks to my roommate Milly. "
+      "content": "Special thanks to Say. She accompanies me on many of these walks. \n Special thanks to my roommate Milly. She really makes my life brighter. "
     }
   ]
 }
