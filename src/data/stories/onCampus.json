@@ -1,172 +1,198 @@
 {
   "id": 1,
-  "title": "On Campus",
+  "title": "On the Campus",
   "type": "photos",
   "coverImage": "images/onCampus/math145.JPG",
   "content": [
     {
       "type": "text",
-      "content": "-"
+      "content": ""
+    },
+    {
+      "type": "text",
+      "content": "\"Hip, Hip, Hooray, We're full of pep and happy, \n Ours the world, each day a merry jest; \n Give a cheer, let's make it bright and snappy, \n On the campus that's when life is best.\""
     },
     {
       "type": "image",
-      "src": "images/onCampus/a_little_house.JPG",
-      "caption": "a little house"
+      "src": "images/onCampus/sunshine.JPG",
+      "caption": "sunshine through tree"
+    },
+    {
+      "type": "text",
+      "content": "This verse comes from a march I've been playing in symphonic band this semester — \"On the Campus\" by John Philip Sousa. Our conductor gave each of us this printed verse on a small note, asking us to sing it in our heads during the trio section. The march, dedicated \"to collegians, past, present, and future,\" is vivid, hopeful, and radiantly happy. It depicts my fantasy for college, with he declaration that goes with Shakespeare's line \"The world is your oyster\", and the spirit that goes with the song \"Nothing's Gonna Stop Us Now\". "
+    },
+    {
+      "type": "text",
+      "content": "But my campus life turned out different. It's not as cheerful, not as carefree, not as bright — it's a little more lonely, a little more chaotic, a little more about feeling lost. And these feelings are authentic. They pulled me out of my illusions about college, yet they're not sad in the way those adjectives might suggest. They're simply real. And if you sit down and look closely, you'll find a different kind of happiness — something more sophisticated, more subtle than the march's exuberance."
+    },
+    {
+      "type": "text",
+      "content": "On the campus, my stories are usually attached to random outdoor walks, casual chats with a few friends, or simply those quiet hours of immersive study. They're often not particularly interesting, but as the protagonist of these stories, I'm fascinated by stepping out of the frame and looking back, trying to revive all those moments. This is why campus remains such a compelling setting for me — not just because it's close to my life right now, but because it provides a shelter where all kinds of feelings can reveal themselves."
     },
     {
       "type": "image",
-      "src": "images/onCampus/chair.JPG",
-      "caption": "chair"
+      "src": "images/onCampus/you_can_stay_under_my_umbrella.JPG",
+      "caption": "Say and me. Say is my good friend. "
     },
-    {
+     {
       "type": "image",
-      "src": "images/onCampus/classroom.JPG",
-      "caption": "classroom"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/classroom_retrospective.JPG",
-      "caption": "classrrom retrospective"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/crossroad.JPG",
-      "caption": "crossroad"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/daisy.JPG",
-      "caption": "daisy"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/downstair.JPG",
-      "caption": "downstair"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/first_snow.JPG",
-      "caption": "first snow"
+      "src": "images/onCampus/light_in_the_hall.JPG",
+      "caption": "Light in the hall"
     },
     {
       "type": "image",
       "src": "images/onCampus/fish.JPG",
-      "caption": "fish"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/flower.JPG",
-      "caption": "flower"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/garden_and_falling_leaves.JPG",
-      "caption": "garden and falling leaves"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/garden_and_feeling_lonely.JPG",
-      "caption": "garden and feeling lonly"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/garden.JPG",
-      "caption": "garden"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/golden_leaves.JPG",
-      "caption": "golden_leaves"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/hands.JPG",
-      "caption": "hands"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/I_hate_bugs_but_this_one_is_cute.JPG",
-      "caption": "I hate bugs but this one is cute"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/less_lonely_vibe.JPG",
-      "caption": "less lonely vibe"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/light_in_the_hall.JPG",
-      "caption": "light in the hall"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/lonely_vibe.JPG",
-      "caption": "lonely vibe"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/long_way_to_go.JPG",
-      "caption": "long way to go"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/lost.JPG",
-      "caption": "lost"
+      "caption": "Acquarium in the union"
     },
     {
       "type": "image",
       "src": "images/onCampus/math_entrance.JPG",
-      "caption": "math entrace"
+      "caption": "Math building entrace"
     },
-    {
+     {
+      "type": "image",
+      "src": "images/onCampus/classroom.JPG",
+      "caption": "Say in a math classroom"
+    },
+     {
       "type": "image",
       "src": "images/onCampus/math_library.JPG",
-      "caption": "math library"
+      "caption": "Math library. It glows like a sanctuary."
     },
     {
       "type": "image",
       "src": "images/onCampus/math145.JPG",
-      "caption": "math 145"
+      "caption": "Math 145. It's the most familiar classroom to me in the entire campus. Many memories."
     },
     {
       "type": "image",
-      "src": "images/onCampus/myself.JPG",
-      "caption": "myself"
+      "src": "images/onCampus/classroom_retrospective.JPG",
+      "caption": "Me studying alone in another classroom"
     },
     {
+      "type": "image",
+      "src": "images/onCampus/daisy.JPG",
+      "caption": "Daisy"
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/garden_and_feeling_lonely.JPG",
+      "caption": "Garden. (I wanted to take a portait here but I was alone)"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/garden_and_falling_leaves.JPG",
+      "caption": "Garden and falling leaves"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/golden_leaves.JPG",
+      "caption": "Golden leaves. Autumn is the best season in my campus, but it was so short. "
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/red_leaves.JPG",
+      "caption": "Red leaves in the fall"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/I_hate_bugs_but_this_one_is_cute.JPG",
+      "caption": "I hate bugs but this one is cute."
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/chair.JPG",
+      "caption": "Chair"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/crossroad.JPG",
+      "caption": "Crossroad at night. Sometimes looking at the crossroad makes me feel sad."
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/first_snow.JPG",
+      "caption": "First snow in campus. It was so cold..."
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/lonely_vibe.JPG",
+      "caption": "A house in winter"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/less_lonely_vibe.JPG",
+      "caption": "A house in winter. A person walking by."
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/smith_hall.JPG",
+      "caption": "Smith hall"
+    },
+     {
       "type": "image",
       "src": "images/onCampus/overexpose.JPG",
-      "caption": "overexpose"
+      "caption": "Cycling student (but overexposed)"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/stairs.JPG",
+      "caption": "Stairs in the Union"
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/swings.JPG",
+      "caption": "Swings. It carries some bittersweet memories. "
     },
     {
       "type": "image",
       "src": "images/onCampus/people_and_pavilion.JPG",
-      "caption": "people and pavilion"
+      "caption": "People leaning on the pavilion in the garden."
     },
     {
       "type": "image",
       "src": "images/onCampus/people_in_a_trance.JPG",
-      "caption": "people in a trance"
+      "caption": "In some trance"
     },
     {
       "type": "image",
       "src": "images/onCampus/random_study_place.JPG",
-      "caption": "random study place"
+      "caption": "A random study corner"
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/vending_machine.JPG",
+      "caption": "Vending machine in the Union"
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/young_couple.JPG",
+      "caption": "My roommate Milly and her boyfriend coming to see me performing at the concert hall. They're so sweet. "
+    },
+     {
+      "type": "image",
+      "src": "images/onCampus/flower.JPG",
+      "caption": "My apartment. The flower "
     },
     {
       "type": "image",
-      "src": "images/onCampus/red_leaves.JPG",
-      "caption": "red leaves"
+      "src": "images/onCampus/hands.JPG",
+      "caption": "Say and me putting hands together. We agreed to be friends forever. "
     },
     {
       "type": "image",
-      "src": "images/onCampus/red_leaves_2.JPG",
-      "caption": "red leaves again"
+      "src": "images/onCampus/long_way_to_go.JPG",
+      "caption": "Path in the garden. Long way to go."
+    },
+    {
+      "type": "image",
+      "src": "images/onCampus/lost.JPG",
+      "caption": "Are we lost?"
     },
     {
       "type": "image",
       "src": "images/onCampus/rose.JPG",
-      "caption": "rose which no one gave me before"
+      "caption": "Rose. I dedicate this photo to myself. "
     },
     {
       "type": "image",
@@ -175,61 +201,16 @@
     },
     {
       "type": "image",
-      "src": "images/onCampus/smith_hall.JPG",
-      "caption": "smith hall"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/so_white.JPG",
-      "caption": "so white"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/stairs.JPG",
-      "caption": "stairs"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/sunshine.JPG",
-      "caption": "sunshine"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/swings.JPG",
-      "caption": "swings"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/tree_my_dearest_friend.JPG",
-      "caption": "tree"
-    },
-    {
-      "type": "image",
-      "src": "images/onCampus/vending_machine.JPG",
-      "caption": "vending machine"
-    },
-    {
-      "type": "image",
       "src": "images/onCampus/wild_flower.JPG",
-      "caption": "wild flowers"
+      "caption": "Wild flowers"
     },
     {
-      "type": "image",
-      "src": "images/onCampus/you_can_stay_under_my_umbrella.JPG",
-      "caption": "you can stay under my umbrella"
+      "type":"text",
+      "content": "This album captures what I saw and felt during fall 2025 on my campus — those small, real moments that make up my own version of \"On the Campus.\""
     },
     {
-      "type": "image",
-      "src": "images/onCampus/young_couple.JPG",
-      "caption": "young couple"
-    },
-    {
-      "type": "text",
-      "content": "i haven't really started to organize these pictures, please wait...."
-    },
-    {
-      "type": "text",
-      "content": "-"
+      "type":"text",
+      "content": "Special thanks to Say. She accompanies me on many of these walks. \n Special thanks to my roommate Milly. "
     }
   ]
 }
