@@ -1,0 +1,113 @@
+{
+  "id": 2,
+  "title": "Road Trip",
+  "type": "photos",
+  "coverImage": "images/fallBreak2025/6.JPG",
+  "content": [
+    {
+      "type": "text",
+      "content": "Trip to Starved Rock State Park, 11/28/2025"
+    },
+    {
+      "type": "text",
+      "content": "I went to the Starved Rock State Park with my friends Chair and Tom during the fall break 2025. It was quite cold, but we somehow managed to walk for 4 miles. There're some very beautiful sceneris all along."
+    },
+    {
+      "type": "text",
+      "content": "PS: If there's a star (*) right next to the caption, it means that the photo is taken by Chair."
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/1.JPG",
+      "caption": "On our way there"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/2.JPG",
+      "caption": "Chair. He's my very best friend in college."
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/3.JPG",
+      "caption": "Wood"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/4.JPG",
+      "caption": "Morning light falls on"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/5.JPG",
+      "caption": "Island"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/10.JPG",
+      "caption": "Shadows*"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/11.JPG",
+      "caption": "Tranquility"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/12.JPG",
+      "caption": "Random pose*"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/13.JPG",
+      "caption": "Canyon*"
+    },
+
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/14.JPG",
+      "caption": "Red leaves flowing on the river"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/9.JPG",
+      "caption": "Yuru Camp!"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/15.JPG",
+      "caption": "Overexposed, but not too bad"
+    },{
+      "type": "image",
+      "src": "images/fallBreak2025/16.JPG",
+      "caption": "Hole in a tree. There're some leaves and branches inside it, probably a little creature's home"
+    },
+     {
+      "type": "image",
+      "src": "images/fallBreak2025/7.JPG",
+      "caption": "The path"
+    },
+    {
+      "type": "image",
+      "src": "images/fallBreak2025/8.JPG",
+      "caption": "Graduate"
+    },
+    {
+      "type": "text",
+      "content": "In all, it's a weary but gratifying road trip right after the Thanksgiving. And this album is in memory of Chair and Tom, who are about to graduate from college next semester."
+    },
+    {
+        "type": "text",
+        "content": "While I was organizing the photos, a poem that I learned from middle school emerged - \"The Road Not Take\" by Robert Frost. I gues it is the kind of thought someone may have when they're walking down a trail. I'll paste the poem here:"
+    },
+    {
+        "type": "text",
+        "content": "Two roads diverged in a yellow wood,\n And sorry I could not travel both \n And be one traveler, long I stood \n And looked down one as far as I could \n To where it bent in the undergrowth; \n \nThen took the other, as just as fair, \nAnd having perhaps the better claim, \nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference."
+    },
+     {
+      "type": "image",
+      "src": "images/fallBreak2025/6.JPG",
+      "caption": ""
+    }
+    
+  ]
+}
